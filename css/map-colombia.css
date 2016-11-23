@@ -1,0 +1,8 @@
+#svg-map .selected{
+    stroke: red;
+    stroke-width: 6;
+}
+
+#svg-map path{
+    fill: grey;
+}
